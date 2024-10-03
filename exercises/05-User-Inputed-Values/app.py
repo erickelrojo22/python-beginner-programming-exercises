@@ -1,5 +1,5 @@
-age = int(input('What is your age?\n'))
-# ✅ ↓ CHANGE THE CODE BELOW TO ADD 10 TO AGE ↓ ✅
-age = age + 10
-                
-print("Your age is: "+str(age))
+#strings se unen con +
+my_var1 = "hello"
+my_var2 = "world"
+#imprime la sume de a y b
+print(my_var1+my_var2)
